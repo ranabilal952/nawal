@@ -321,94 +321,62 @@ Home
         <div id="owl-client">
             <div class="owl-client-item">
                 <a href="#"><img src="upload/client_01.png" alt="" class="img-responsive"></a>
+            </div>            
+            <div class="owl-client-item">
+                <a href="#"><img src="upload/client_01.png" alt="" class="img-responsive"></a>
+            </div>           
+             <div class="owl-client-item">
+                <a href="#"><img src="upload/client_01.png" alt="" class="img-responsive"></a>
+            </div>            
+            <div class="owl-client-item">
+                <a href="#"><img src="upload/client_01.png" alt="" class="img-responsive"></a>
+            </div>           
+             <div class="owl-client-item">
+                <a href="#"><img src="upload/client_01.png" alt="" class="img-responsive"></a>
+            </div>            
+            <div class="owl-client-item">
+                <a href="#"><img src="upload/client_01.png" alt="" class="img-responsive"></a>
+            </div>           
+             <div class="owl-client-item">
+                <a href="#"><img src="upload/client_01.png" alt="" class="img-responsive"></a>
+            </div>            <div class="owl-client-item">
+                <a href="#"><img src="upload/client_01.png" alt="" class="img-responsive"></a>
+            </div>            
+            <div class="owl-client-item">
+                <a href="#"><img src="upload/client_01.png" alt="" class="img-responsive"></a>
+            </div>            
+            <div class="owl-client-item">
+                <a href="#"><img src="upload/client_01.png" alt="" class="img-responsive"></a>
+            </div>            
+            <div class="owl-client-item">
+                <a href="#"><img src="upload/client_01.png" alt="" class="img-responsive"></a>
+            </div>            
+            <div class="owl-client-item">
+                <a href="#"><img src="upload/client_01.png" alt="" class="img-responsive"></a>
+            </div>            
+            <div class="owl-client-item">
+                <a href="#"><img src="upload/client_01.png" alt="" class="img-responsive"></a>
+            </div>            <div class="owl-client-item">
+                <a href="#"><img src="upload/client_01.png" alt="" class="img-responsive"></a>
+            </div>          
+              <div class="owl-client-item">
+                <a href="#"><img src="upload/client_01.png" alt="" class="img-responsive"></a>
+            </div>            
+            <div class="owl-client-item">
+                <a href="#"><img src="upload/client_01.png" alt="" class="img-responsive"></a>
+            </div>            
+            <div class="owl-client-item">
+                <a href="#"><img src="upload/client_01.png" alt="" class="img-responsive"></a>
+            </div>           
+             <div class="owl-client-item">
+                <a href="#"><img src="upload/client_01.png" alt="" class="img-responsive"></a>
+            </div>           
+             <div class="owl-client-item">
+                <a href="#"><img src="upload/client_01.png" alt="" class="img-responsive"></a>
             </div>
             <!-- end owl item -->
 
-            <div id="owl-client">
-                <div class="owl-client-item">
-                    <img src="http://www.travel360.com.pk/wp-content/uploads/2019/01/07_PIA_140x80_.png">
-                </div>
-            </div>           
-             <div id="owl-client">
-                <div class="owl-client-item">
-                    <img src="http://www.travel360.com.pk/wp-content/uploads/2019/01/03_Airblue_140x80_.png">
-                </div>
-            </div>           
-             <div id="owl-client">
-                <div class="owl-client-item">
-                    <img src="http://www.travel360.com.pk/wp-content/uploads/2019/01/14_Qatar_140x80_.png">
-                </div>
-            </div>           
-             <div id="owl-client">
-                <div class="owl-client-item">
-                    <img src="http://www.travel360.com.pk/wp-content/uploads/2019/01/09_Emirates_140x80_.png">
-                </div>
-            </div>            
-            <div id="owl-client">
-                <div class="owl-client-item">
-                    <img src="http://www.travel360.com.pk/wp-content/uploads/2019/01/01_Thai_140x80_-1.png">
-                </div>
-            </div>           
-             <div id="owl-client">
-                <div class="owl-client-item">
-                    <img src="http://www.travel360.com.pk/wp-content/uploads/2019/01/saree.jpg">
-                </div>
-            </div>             
-            {{-- <div id="owl-client">
-                <div class="owl-client-item">
-                    <img src="http://www.travel360.com.pk/wp-content/uploads/2019/01/23_saudia_140x80_.png">
-                </div>
-            </div>            --}}
-             <div id="owl-client">
-                <div class="owl-client-item">
-                    <img src="http://www.travel360.com.pk/wp-content/uploads/2019/01/02_Etihad_140x80_.png">
-                </div>
-            </div>             
-            <div id="owl-client">
-                <div class="owl-client-item">
-                    <img src="http://www.travel360.com.pk/wp-content/uploads/2019/01/12_Kuwait_140x80_.png">
-                </div>
-            </div>            
-             <div id="owl-client">
-                <div class="owl-client-item">
-                    <img src="http://www.travel360.com.pk/wp-content/uploads/2019/01/13_Sirlankan_140x80_.png">
-                </div>
-            </div>             
-            <div id="owl-client">
-                <div class="owl-client-item">
-                    <img src="http://www.travel360.com.pk/wp-content/uploads/2019/01/11_Cathay_140x80_.png">
-                </div>
-            </div>             
-            <div id="owl-client">
-                <div class="owl-client-item">
-                    <img src="http://www.travel360.com.pk/wp-content/uploads/2019/01/05_Malaysia_140x80_.png">
-                </div>
-            </div>            
-            <div id="owl-client">
-                <div class="owl-client-item">
-                    <img src="http://www.travel360.com.pk/wp-content/uploads/2019/01/15_Turkish-Air_140x80_.png">
-                </div>
-            </div>           
-             {{-- <div id="owl-client">
-                <div class="owl-client-item">
-                    <img src="http://www.travel360.com.pk/wp-content/uploads/2019/01/16_british_140x80_.png">
-                </div>
-            </div>              --}}
-            <div id="owl-client">
-                <div class="owl-client-item">
-                    <img src="http://www.travel360.com.pk/wp-content/uploads/2019/01/18_Gulf_140x80_.png">
-                </div>
-            </div>            
-            <div id="owl-client">
-                <div class="owl-client-item">
-                    <img src="http://www.travel360.com.pk/wp-content/uploads/2019/01/17_AA_140x80_.png">
-                </div>
-            </div>            
-            <div id="owl-client">
-                <div class="owl-client-item">
-                    <img src="http://www.travel360.com.pk/wp-content/uploads/2019/01/19_flydubai_140x80_.png">
-                </div>
-            </div>
+
         </div><!-- end owl -->
     </div><!-- end container -->
 </section><!-- end section -->

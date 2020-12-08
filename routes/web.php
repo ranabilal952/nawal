@@ -26,6 +26,7 @@ Route::view('uktour', 'front.uktour');
 Route::view('ustour', 'front.ustour');
 Route::view('uaetour', 'front.uaetour');
 Route::view('polandtour', 'front.polandtour');
+Route::view('qatar', 'front.qatar');
 Route::view('pakistantour', 'front.pakistantour');
 
 

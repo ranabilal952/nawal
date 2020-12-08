@@ -163,7 +163,7 @@
 							</li>
 							<li class="dropdown yamm-fw">
 								
-								<a href="#" data-toggle="dropdown" class="dropdown-toggle" tabindex="0">UK Tours <span></span></a>
+								<a href="{{('uktour')}}"  class="">UK Tours</a>
 								{{-- <ul class="dropdown-menu">
 					                <li>
 										<div class="yamm-content">
@@ -215,7 +215,7 @@
 								</ul> --}}
 							</li>
 							<li class="dropdown yamm-fw">
-								<a href="#" data-toggle="dropdown" class="dropdown-toggle" tabindex="0">Poland Tours <span></span></a>
+								<a href="{{('polandtour')}}">Poland Tours <span></span></a>
 								{{-- <ul class="dropdown-menu">
 					                <li>
 										<div class="yamm-content">
@@ -269,7 +269,7 @@
 						</ul>
 						<ul class="nav navbar-nav navbar-right">
 							<li class="dropdown yamm-fw">
-								<a href="#" data-toggle="dropdown" class="dropdown-toggle" tabindex="0">UAE Tours <span></span></a>
+								<a href="{{('uaetour')}}" >UAE Tours <span></span></a>
 								{{-- <ul class="dropdown-menu">
 					                <li>
 										<div class="yamm-content">
@@ -321,7 +321,7 @@
 								</ul> --}}
 							</li>
 							<li class="dropdown yamm-fw">
-								<a href="#" data-toggle="dropdown" class="dropdown-toggle" tabindex="0">Qatar Tours <span></span></a>
+								<a href="{{('qatar')}}" >Qatar Tours <span></span></a>
 								{{-- <ul class="dropdown-menu">
 					                <li>
 										<div class="yamm-content">
@@ -373,7 +373,7 @@
 								</ul> --}}
 							</li>							
 							<li class="dropdown yamm-fw">
-								<a href="#" data-toggle="dropdown" class="dropdown-toggle" tabindex="0">Pakistan Tours <span></span></a>
+								<a href="{{('pakistantour')}}"  >Pakistan Tours <span></span></a>
 								{{-- <ul class="dropdown-menu">
 					                <li>
 										<div class="yamm-content">

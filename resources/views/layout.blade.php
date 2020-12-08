@@ -47,9 +47,7 @@
         <a href="{{route('dashboard')}}" class="logo"><img src="{{asset('assets/images/logo.png')}}" height="42" alt="logo"></a>
         </div>
       </div>
-
       <div class="sidebar-inner slimscrollleft">
-
         <div class="user-details">
           <div class="text-center">
             <img src="{{asset('images/b.jpg')}}" alt="" class="rounded-circle">
